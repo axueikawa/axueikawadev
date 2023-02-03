@@ -5,7 +5,7 @@
 <a />
 <img width="50%" align="right" src="https://i.imgur.com/kWJpUr0.giff">
 <a href="https://wakatime.com/@Axueikawadev" target="_blank">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Axueikawadev&border_radius=5px&border_color=fff&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Stats">
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Axueikawadev&border_radius=5px&border_color=fff&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Stats">
 <a/>
 
 Hey! My name is Axueikawa but I go by Visual Studio Code.
